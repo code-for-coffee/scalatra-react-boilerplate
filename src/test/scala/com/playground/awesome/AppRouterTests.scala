@@ -1,4 +1,4 @@
-package com.github.scalatrareactboilerplate
+package com.playground.awesome
 
 import org.scalatra.test.scalatest._
 

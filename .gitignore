@@ -67,5 +67,3 @@ jrebel.lic
 
 # paulp script
 /.lib/
-*.class
-*.log
